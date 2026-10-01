@@ -1,0 +1,9 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Originais: o site usa as versoes otimizadas em assets/
+Logo.png
+
+# Referencia de layout de terceiros: so serviu de direcao visual, nao publicar
+UX_UI Design.jpg
